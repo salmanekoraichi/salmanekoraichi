@@ -35,6 +35,10 @@ I’m always open to **collaborating** on **exciting and innovative projects**! 
 
 ---
 
+![Salmane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmaneKoraichi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmaneKoraichi&layout=compact&theme=radical)
+
+
 ### 🧠 Fun Fact About Me:
 I can often be found pondering over deep learning algorithms while sipping on endless cups of coffee ☕.
 
