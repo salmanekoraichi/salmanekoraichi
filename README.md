@@ -6,15 +6,15 @@ I'm a **passionate Software Engineering Student** 👨‍💻 who loves diving i
 
 ---
 
-## 🔍 A Glimpse Into My World
+## 🔍 A Glimpse Into My World : 
 
-- 🔬 **Specialties:** 
+- 🔬 **Specialties : ** 
    - Artificial Intelligence. 🤯
    - Machine Learning 🤖
    - Deep Learning 🧠
    - Computer Vision 👀
 
-- 🌱 **Currently Exploring:** 
+- 🌱 **Currently Exploring : ** 
    - Advanced concepts in **Reinforcement Learning** 🚴‍♂️
    - Unveiling the secrets of **neural networks** 🌐
 
