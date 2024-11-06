@@ -23,9 +23,22 @@ I'm a **passionate Software Engineering Student** 👨‍💻 who loves diving i
 
 ---
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## 🏆 Let's Collaborate & Innovate!
 
 I’m always open to **collaborating** on **exciting and innovative projects**! Together, let’s create something truly groundbreaking 💥.
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=salmanekoraichi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=salmanekoraichi&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanekoraichi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=salmanekoraichi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🌐 Socials:
@@ -109,8 +122,5 @@ I’m always open to **collaborating** on **exciting and innovative projects**! 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salmanekoraichi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
