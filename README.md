@@ -1,12 +1,4 @@
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/salmanekoraichi/salmanekoraichi/output/snake.svg" alt="Snake animation" />
-
-###
-
 # 👋 Hey there, I'm **Salmane Koraichi**! 🚀
 
 
